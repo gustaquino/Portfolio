@@ -1,7 +1,14 @@
-# Portfolio
+<p align="center">
+<img src="logo.png">
+</p>
 
 
+Gustavo Aquino Fioranti
+<sub>Data Scientist</sub>
 
+Links: 
+[Linkedin](https://www.linkedin.com/in/gustavoaquinofioranti)
+[Kaggle](https://www.kaggle.com/gustavofioranti)
 
 A data enthusiast captivated by the boundless potential of the data universe, where remarkable feats are achieved through the power of computers and artificial intelligence (machine learning and deep learning).
 
