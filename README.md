@@ -3,11 +3,13 @@
 </p>
 
 
-Gustavo Aquino Fioranti
-<sub>Data Scientist</sub>
-
+<h1>Gustavo Aquino Fioranti</h1>
+<h3>Data Scientist</h3>
+  
 Links: 
+<br>
 [Linkedin](https://www.linkedin.com/in/gustavoaquinofioranti)
+<br>
 [Kaggle](https://www.kaggle.com/gustavofioranti)
 
 A data enthusiast captivated by the boundless potential of the data universe, where remarkable feats are achieved through the power of computers and artificial intelligence (machine learning and deep learning).
