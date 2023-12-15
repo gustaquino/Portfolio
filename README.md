@@ -22,3 +22,5 @@ Skilled in Python, Power BI, SQL, Excel, and problem-solving, I am eager to appl
 Links: 
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTZlZjBmMGMtNGU4Yi00YzhmLTgxNzEtNzk2YjcyZDgxMzJhIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9">Dashboard Vendas Eletrônicos</a>
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOGM2MWQ1ZDktZGM5Ny00NGNmLTlmYWYtZjhkYTgwYTBmZjJmIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9">Dashboard Picadas de Animais Peçonhentos</a>
