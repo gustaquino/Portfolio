@@ -31,3 +31,7 @@ Links:
 Links:
 <br>
 <a href="https://www.kaggle.com/code/gustavofioranti/limpeza-de-dados-titanic">Limpeza de Dados Titanic</a>
+<h1> Data cleaning projects: </h1>
+Links:
+<br>
+<a href="https://www.kaggle.com/code/gustavofioranti/creditcardanalysis">CreditCardAnalysis</a>
