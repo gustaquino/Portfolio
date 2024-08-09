@@ -18,7 +18,7 @@ Currently completing a Analysis and Systems Development degree at Descomplica (S
 
 Skilled in Python, Power BI, SQL, Excel, and problem-solving, I am eager to apply my expertise and gain valuable experience in the field of data visualization.
 
-<h1> Power BI projects: </h1>
+<h1> Power BI(Dashboards) Projects: </h1>
 Links: 
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTZlZjBmMGMtNGU4Yi00YzhmLTgxNzEtNzk2YjcyZDgxMzJhIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9">Dashboard Vendas Eletrônicos</a>
@@ -27,11 +27,11 @@ Links:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjlmNTE1MjYtZjEyNi00N2QxLTk5OWYtMGE1NDM2NDE0NTJlIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9">Dashboard Orçamentos</a>
 
-<h1> Data cleaning projects: </h1>
+<h1> Data Cleaning Projects: </h1>
 Links:
 <br>
 <a href="https://www.kaggle.com/code/gustavofioranti/limpeza-de-dados-titanic">Limpeza de Dados Titanic</a>
-<h1> Data cleaning projects: </h1>
+<h1> Data Analysis Projects: </h1>
 Links:
 <br>
 <a href="https://www.kaggle.com/code/gustavofioranti/creditcardanalysis">CreditCardAnalysis</a>
