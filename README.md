@@ -30,6 +30,7 @@ Links:
 <h1> Data Cleaning Projects: </h1>
 Links:
 <br>
+<a href="https://www.kaggle.com/code/gustavofioranti/olympics-data-cleaning">Limpeza de Dados Olimpicos</a>
 <a href="https://www.kaggle.com/code/gustavofioranti/limpeza-de-dados-titanic">Limpeza de Dados Titanic</a>
 <h1> Data Analysis Projects: </h1>
 Links:
